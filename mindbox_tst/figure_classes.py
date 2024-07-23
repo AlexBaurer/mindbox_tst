@@ -45,3 +45,4 @@ class FTriangle(Figure):
             print(f"Square of this triangle is {res} {measure}")
             return float("%.2f" % res)
 
+

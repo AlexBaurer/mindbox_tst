@@ -27,4 +27,3 @@ def test_sqr_triangle():
         c += 1
 
 
-

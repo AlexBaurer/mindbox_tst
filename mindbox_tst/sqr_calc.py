@@ -18,3 +18,4 @@ def figure_sqr(figure: list | int, measure: str = 'meters'):
         return fig.calc_sqr(measure)
     else:
         pass
+
