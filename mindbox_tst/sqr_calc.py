@@ -1,7 +1,7 @@
 from mindbox_tst.figure_classes import *
 
 
-def figure_sqr(figure: list | int, measure: str = 'meters'):
+def figure_sqr(figure: list | int, measure: str = 'meters') -> float:
     """Send list of 1 element for circle; of 3 elements for triangle
      as first argument and unit of measurement as second"""
 
